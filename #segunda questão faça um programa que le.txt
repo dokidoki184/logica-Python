@@ -1,0 +1,10 @@
+#segunda questão faça um programa que leia o numero inteiro 
+#e o declare se e par ou impar
+terceira questão questão faça um programa que peça tres numeros e mostre o maior deles
+
+quarta atividadfer faça um programa que peça a idade do usuario e o classifique como
+entre 0 a 12 anos= criança
+13 a 17= adolecente
+18 a 25 anos jovem adulto 26 a 59 adulto 
+mais de 60 idoso
+
